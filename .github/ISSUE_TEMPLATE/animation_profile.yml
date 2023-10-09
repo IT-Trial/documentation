@@ -43,7 +43,7 @@ body:
     attributes: 
       label: Description
       description: Please provide a brief description of the planning problem.
-      placeholder: What are the settings and goals of the planning problem?
+      placeholder: ex. what are the settings and goals of the planning problem?
     validations: 
       required: true
 
