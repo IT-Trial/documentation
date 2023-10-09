@@ -62,7 +62,7 @@ body:
       label: Comments
       description: Feel free to add any relevant comments!
     validations: 
-      required: true
+      required: false
 
   
   
