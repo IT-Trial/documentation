@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to write an animation profile and filling out this form!
+        Thanks for taking the time to write an animation profile and fill out this form!
   
   - type: input
     id: contact
